@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Manaswi Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h2>Welcome To Mustaba Technologies, Marathahalli, Banglore.</h2>
+			<h3>Contact @ +91-7569133965 </h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Manaswi Technologies 2022</p>
+		<p>&copy; Mustaba Technologies 2022</p>
 	</footer>
 </div>
 
